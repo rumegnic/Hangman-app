@@ -10,7 +10,8 @@ Built a hangman game app in order to practice Collections framework(ArrayLists f
                                        
 - using and infinite while loop to ask the user for input  for every single character
 
-*if user loses -> numberOfChances-- and a message that informs the user that he/she ran out of chances and prints the word that was not guessed. 
-*if user wins -> the _ in the guessingArray will be replaced with the correct character until the word is completed, thus user getting a congratulatoins message.
+* if user loses -> numberOfChances-- and a message that informs the user that he/she ran out of chances and prints the word that was not guessed.
+  
+* if user wins -> the _ in the guessingArray will be replaced with the correct character until the word is completed, thus user getting a congratulatoins message.
 
 - the main method only has an object of type GameService(the class with all the necessary functions for the game) which calls the .start() method in order for the game to run, thus applying the Clean Code Principles in Java.
