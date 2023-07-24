@@ -1,5 +1,6 @@
 # Hangman-app
 Built a hangman game app in order to practice Collections framework(ArrayLists focused), exceptions,how handle errors and file handling.
+
 -Pretty straight forward project that uses a .txt file with a few words for the hangman game
 -Uses 2 functions: one that takes the words from the .txt file and another that stores one of the random words.
 -start() function uses two char arrays:*one for the randomWord that is being converted to character array through .toCharArray() method
